@@ -2,16 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Write SQL requests. Simple, and some more complicated according to the taks.
 
 ## Description
-TODO - How have you solved the problem?
+I went for the provided youtube resourses and watched some other clips to understand the concept of SQL. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No Installation required, just downloaded the database and connect to the database with Sqlite (sqlite3 movies.db).
 
 ## Usage
-TODO - How does it work?
+The corresponding sql potrays the expected data requests. 
+
 ```
 ./my_project argument1 argument2
 ```
